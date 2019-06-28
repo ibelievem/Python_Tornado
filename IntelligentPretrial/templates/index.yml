@@ -1,0 +1,16 @@
+swagger: "2.0"
+info:
+  description: "模块清单:
+
+smsauth http://192.168.11.88:9023/swagger/smsauth"
+  version: ""
+  title: "智能预审1.0接口文档"
+  termsOfService: ""
+  contact:
+    email: ""
+host: ""
+basePath: ""
+
+
+
+

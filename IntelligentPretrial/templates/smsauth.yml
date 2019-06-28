@@ -1,0 +1,29 @@
+swagger: "2.0"
+info:
+  description: ""
+  version: ""
+  title: "smsauth"
+  termsOfService: ""
+  contact:
+    email: ""
+host: ""
+basePath: ""
+tags:
+
+paths:
+
+  /userauth/logout:
+    post:
+      tags:
+      - "用户名密码认证"
+    
+      description: "登出"
+
+      responses:
+        200:
+          description: "返回成功"
+        500:
+          description: "后台处理异常"
+
+
+definitions:
